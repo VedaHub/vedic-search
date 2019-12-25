@@ -18,7 +18,7 @@
 package com.rozdoum.socialcomponents;
 
 import com.rozdoum.socialcomponents.managers.DatabaseHelper;
-
+import com.rozdoum.socialcomponents.main.interactors.PostInteractor;
 public class Application extends android.app.Application {
 
     public static final String TAG = Application.class.getSimpleName();
